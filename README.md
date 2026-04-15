@@ -1,1 +1,1 @@
-![Demo](.assets/demo.png)
+![Demo](./assets/demo.png)
